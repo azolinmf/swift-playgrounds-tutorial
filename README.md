@@ -4,7 +4,7 @@ Esse é um tutorialde como configurar e usar o **swift playgrounds author templa
 
 Os vídeos de explicação estão em:
 1. [Sobre a WWDC e escolha do author template](https://youtu.be/S5YQj_wzCDU)
-2. Alguns recursos desse template
+2. [Alguns recursos desse template](https://www.youtube.com/watch?v=pBIBpVW9N2Q)
 
 
 Script para rodar o playground: 
