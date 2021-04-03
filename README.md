@@ -1,8 +1,8 @@
 # swift-playgrounds-tutorial
 
-Esse é um tutorialde como configurar e usar o **swift playgrounds author template** para criar um playground e submeter para a WWDC.
+Esse arquivo é um tempalte personalizado usando author template para o Swift Student Challenge da WWDC21.
 
-Os vídeos de explicação estão em:
+Tutorial de como configurar e usar o **swift playgrounds author template** para criar um playgroundbook:
 1. [Sobre a WWDC e escolha do author template](https://youtu.be/S5YQj_wzCDU)
 2. [Alguns recursos desse template](https://www.youtube.com/watch?v=pBIBpVW9N2Q)
 
